@@ -1,0 +1,6 @@
+{
+  "name": "Yerli Sinema & Dizi M3U8 Python Studio",
+  "description": "YouTube telifsiz ve resmi yerli film ile dizi kanallarını akıllı regex ve yt-dlp ile filtreleyip IPTV M3U/M3U8 formatına dönüştüren optimize Python ve Web stüdyosu.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
